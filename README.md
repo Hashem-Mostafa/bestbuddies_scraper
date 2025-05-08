@@ -21,6 +21,3 @@ python scraper/main.py
 ## Output
 - Scraped JSON files are saved in `website_content/`
 - URL logs saved in CSV files
-
-## License
-MIT
